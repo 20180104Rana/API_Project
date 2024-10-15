@@ -1,0 +1,12 @@
+F:\.Net\C#\API\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.csproj.AssemblyReference.cache
+F:\.Net\C#\API\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\C#\API\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfoInputs.cache
+F:\.Net\C#\API\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfo.cs
+F:\.Net\C#\API\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.csproj.CoreCompileInputs.cache
+F:\.Net\C#\API\Store.Data\Store.Data\bin\Debug\net8.0\Store.Data.deps.json
+F:\.Net\C#\API\Store.Data\Store.Data\bin\Debug\net8.0\Store.Data.dll
+F:\.Net\C#\API\Store.Data\Store.Data\bin\Debug\net8.0\Store.Data.pdb
+F:\.Net\C#\API\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.dll
+F:\.Net\C#\API\Store.Data\Store.Data\obj\Debug\net8.0\refint\Store.Data.dll
+F:\.Net\C#\API\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.pdb
+F:\.Net\C#\API\Store.Data\Store.Data\obj\Debug\net8.0\ref\Store.Data.dll

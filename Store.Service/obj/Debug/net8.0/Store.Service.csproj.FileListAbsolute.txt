@@ -1,0 +1,5 @@
+F:\.Net\C#\API\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.csproj.AssemblyReference.cache
+F:\.Net\C#\API\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\C#\API\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.AssemblyInfoInputs.cache
+F:\.Net\C#\API\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.AssemblyInfo.cs
+F:\.Net\C#\API\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.csproj.CoreCompileInputs.cache

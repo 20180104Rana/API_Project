@@ -1,0 +1,5 @@
+F:\.Net\C#\API\Store.Data\Store.Reprosatory\obj\Debug\net8.0\Store.Reprosatory.csproj.AssemblyReference.cache
+F:\.Net\C#\API\Store.Data\Store.Reprosatory\obj\Debug\net8.0\Store.Reprosatory.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\C#\API\Store.Data\Store.Reprosatory\obj\Debug\net8.0\Store.Reprosatory.AssemblyInfoInputs.cache
+F:\.Net\C#\API\Store.Data\Store.Reprosatory\obj\Debug\net8.0\Store.Reprosatory.AssemblyInfo.cs
+F:\.Net\C#\API\Store.Data\Store.Reprosatory\obj\Debug\net8.0\Store.Reprosatory.csproj.CoreCompileInputs.cache
